@@ -1,7 +1,6 @@
 # RAG-Based-Document-Retrieval-and-Q-A-ChatBot
 
-# Overview
-RAG-Based Document Retrieval and Q&A ChatBot is a conversational AI system designed to efficiently retrieve information from documents and generate concise, context-aware responses to user queries. This project leverages Retrieval-Augmented Generation (RAG) to combine the best of two approaches: retrieving relevant documents from a corpus and using a powerful language model for generating answers.
+It is a conversational AI system designed to efficiently retrieve information from documents and generate concise, context-aware responses to user queries. This project leverages Retrieval-Augmented Generation (RAG) to combine the best of two approaches: retrieving relevant documents from a corpus and using a powerful language model for generating answers.
 
 By utilizing LangChain, Groq LLM, and Chroma for document storage, this chatbot can handle dynamic Q&A tasks with a high level of accuracy and relevance.
 
